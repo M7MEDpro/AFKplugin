@@ -100,7 +100,7 @@ If you encounter issues:
 
 ## 📊 Performance
 
-- **CPU Impact**: Minimal (runs every 10 seconds)
+- **CPU Impact**: Minimal (runs every 3 seconds)
 - **Memory Usage**: Very low (only stores last activity time per player)
 - **Network Impact**: None (server-side only)
 

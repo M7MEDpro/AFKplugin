@@ -54,7 +54,7 @@ public final class AFKplugin extends JavaPlugin {
                     }
                 }
             }
-        }, 0L, 20L * 10);
+        }, 0L, 20L * 3);
     }
 
 
